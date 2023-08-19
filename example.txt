@@ -1,5 +1,0 @@
-This is an example
-
-This is an example new line
-
-add another one
